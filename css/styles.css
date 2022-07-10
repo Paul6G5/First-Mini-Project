@@ -12,9 +12,8 @@ body {
      margin: 100px;
      width: fit-content;
      font-family: 'Red Hat Display';
-     height: 100%;
      font-size: 16px;
-     font-style: 900;
+     font-style: 500,700,900;
 }
 
 .container {
