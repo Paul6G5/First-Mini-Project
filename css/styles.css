@@ -11,12 +11,13 @@ body {
      background-color:  hsl(225, 100%, 94%);
      font-family: 'Red Hat Display';
      font-size: 16px;
+     background-position: center;
      font-style: 500, 700, 900;
 }
 
 .container {
-     margin: 100%;
-     width: 375px;
+     margin: auto;
+     width: auto;
      background-color: white;
      border-radius: 20px;
      height: 300%;
@@ -30,7 +31,6 @@ body {
 
 .stomach {
      display: flex;
-     justify-content: space-around;
      background-color: hsl(225, 100%, 98%);
      margin: 10%;
      padding: 1px;
