@@ -12,6 +12,7 @@ body {
      margin: 100px;
      width: fit-content;
      font-family: 'Red Hat Display';
+     height: auto;
      font-size: 16px;
      font-style: 900;
 }
