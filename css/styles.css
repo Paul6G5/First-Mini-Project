@@ -17,11 +17,10 @@ body {
 
 .container {
      margin: auto;
-     width: auto;
+     width: 450px;
      background-color: white;
      border-radius: 20px;
-     height: 300%;
-     box-sizing: border-box;
+     height: 550px;
 }
 
 .head {
@@ -34,6 +33,8 @@ body {
      background-color: hsl(225, 100%, 98%);
      margin: 10%;
      padding: 1px;
+     align-items: center;
+     justify-content: space-around;
      border-radius: 12px;
 }
 
