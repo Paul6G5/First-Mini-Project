@@ -16,7 +16,7 @@ body {
 
 .container {
      margin: 100%;
-     width: fit-content;
+     width: 375px;
      background-color: white;
      border-radius: 20px;
      height: 300%;
@@ -31,12 +31,9 @@ body {
 .stomach {
      display: flex;
      justify-content: space-around;
-     justify-items: flex-end;
      background-color: hsl(225, 100%, 98%);
      margin: 10%;
-     text-justify: center;
      padding: 1px;
-     align-item: center;
      border-radius: 12px;
 }
 
