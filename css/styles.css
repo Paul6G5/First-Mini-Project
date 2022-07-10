@@ -1,6 +1,7 @@
 * {
      Margin: 0;
      Padding: 0;
+     text-align: center;
      box-sizing: border-box;
 }
 
@@ -21,7 +22,7 @@ body {
      background-color: white;
      border-radius: 20px;
      box-sizing: border-box;
-     height: 300%;
+     height: 250%;
 }
 
 .head {
