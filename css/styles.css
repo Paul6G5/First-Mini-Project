@@ -13,12 +13,13 @@ body {
 }
 
 .container {
-     margin: 20px;
+     margin: auto;
      width: fit-content;
      background-color: white;
      border-radius: 20px;
-     height: 250%;
+     height: 300%;
      align-items: center;
+     box-sizing: border-box;
      justify-content: center;
 }
 
