@@ -15,9 +15,9 @@ body {
 .container {
      margin: auto;
      width: fit-content;
+     height: 200%;
      background-color: white;
      border-radius: 20px;
-     height: 200%;
      box-sizing: border-box;
 }
 
@@ -30,9 +30,9 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      margin: 10%;
-     padding: 1px;
-     justify-content: space-around;
+     padding: 3px;
      border-radius: 12px;
+     justify-content: space-around;
      justify-items: flex-end;
 }
 
