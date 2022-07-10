@@ -29,9 +29,9 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      margin: 10%;
-     padding: 5px;
+     padding: 6px;
+     width: 375px;
      justify-content: space-around;
-     justify-content: center;
      border-radius: 12px;
 }
 
