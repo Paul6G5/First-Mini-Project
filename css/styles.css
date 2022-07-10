@@ -12,7 +12,7 @@ body {
      margin: 100px;
      width: fit-content;
      font-family: 'Red Hat Display';
-     height: auto;
+     height: 100%;
      font-size: 16px;
      font-style: 900;
 }
@@ -41,7 +41,7 @@ body {
      justify-items: flex-end;
      background-color: hsl(225, 100%, 98%);
      margin: 10%;
-     padding: 1px;
+     padding: 2px;
      font-weight: 900;
      border-radius: 12px;
 }
@@ -54,8 +54,4 @@ body {
      border: none;
      background-color: hsl(225, 69%, 46%);
      font-weight: 700;
-}
-
-.bottom {
-     margin-bottom: 20px;
 }
