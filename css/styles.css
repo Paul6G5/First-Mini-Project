@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-     margin: auto;
+     margin: 200%;
      width: fit-content;
      background-color: white;
      border-radius: 20px;
@@ -29,10 +29,11 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      margin: 10%;
-     padding: 6px;
+     padding: 1px;
      width: 375px;
      justify-content: space-around;
      border-radius: 12px;
+     justify-items: flex-end;
 }
 
 .ankle {
