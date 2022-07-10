@@ -16,11 +16,11 @@ body {
 }
 
 .container {
-     margin: auto;
+     margin: 100%;
      width: 450px;
      background-color: white;
      border-radius: 20px;
-     height: 550px;
+     height: 400%;
 }
 
 .head {
