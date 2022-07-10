@@ -18,6 +18,9 @@ body {
      background-color: white;
      border-radius: 20px;
      height: 300%;
+     align-items: center;
+     min-height: 200vh;
+     justify-content: center;
 }
 
 .head {
@@ -32,6 +35,7 @@ body {
      background-color: hsl(225, 100%, 98%);
      margin: 10%;
      padding: 1px;
+     align-item: center;
      border-radius: 12px;
 }
 
