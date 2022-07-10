@@ -9,7 +9,6 @@ body {
      background-color:  hsl(225, 100%, 94%);
      font-family: 'Red Hat Display';
      font-size: 16px;
-     background-position: center;
      font-style: 500, 700, 900;
 }
 
@@ -30,8 +29,7 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      margin: 10%;
-     padding: 1px;
-     align-items: center;
+     padding: 5px;
      justify-content: center;
      border-radius: 12px;
 }
