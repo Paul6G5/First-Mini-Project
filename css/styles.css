@@ -14,10 +14,10 @@ body {
 
 .container {
      margin: auto;
-     width: 375px;
+     width: fit-content;
      background-color: white;
      border-radius: 20px;
-     height: 200%;
+     height: 475px;
 }
 
 .head {
