@@ -9,17 +9,17 @@ body {
      background-color:  hsl(225, 100%, 94%);
      font-family: 'Red Hat Display';
      font-size: 16px;
+     position: relative;
      font-style: 500, 700, 900;
 }
 
 .container {
      margin: 20px;
-     width: fit-content;
+     width: 375px;
      background-color: white;
      border-radius: 20px;
      height: 300%;
      align-items: center;
-     min-height: 200vh;
      justify-content: center;
 }
 
@@ -34,7 +34,7 @@ body {
      justify-items: flex-end;
      background-color: hsl(225, 100%, 98%);
      margin: 10%;
-     padding: 1px;
+     padding: 5px;
      align-item: center;
      border-radius: 12px;
 }
