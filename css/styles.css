@@ -17,7 +17,7 @@ body {
      width: fit-content;
      background-color: white;
      border-radius: 20px;
-     height: 475px;
+     height: 350%;
 }
 
 .head {
@@ -30,6 +30,7 @@ body {
      background-color: hsl(225, 100%, 98%);
      margin: 10%;
      padding: 5px;
+     justify-content: space-around;
      justify-content: center;
      border-radius: 12px;
 }
