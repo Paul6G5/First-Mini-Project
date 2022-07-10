@@ -7,8 +7,8 @@ body {
      background-image: url(../images/pattern-background-desktop.svg);
      background-repeat: no-repeat;
      background-color:  hsl(225, 100%, 94%);
-     margin: 200%;
-     width: 375px;
+     margin: auto;
+     width: fit-content;
      font-family: 'Red Hat Display';
      font-size: 16px;
      font-style: 500, 700, 900;
@@ -19,7 +19,7 @@ body {
      width: fit-content;
      background-color: white;
      border-radius: 20px;
-     height: 570px;
+     height: 300%;
 }
 
 .head {
