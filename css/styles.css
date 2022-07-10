@@ -1,5 +1,4 @@
 * {
-     text-align: center;
      Margin: 0;
      Padding: 0;
      box-sizing: border-box;
@@ -22,7 +21,7 @@ body {
      background-color: white;
      border-radius: 20px;
      box-sizing: border-box;
-     height: 490px;
+     height: auto;
 }
 
 .head {
