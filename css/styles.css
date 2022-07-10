@@ -55,3 +55,7 @@ body {
      background-color: hsl(225, 69%, 46%);
      font-weight: 700;
 }
+
+.bottom {
+     margin-bottom: 20px;
+}
