@@ -1,7 +1,6 @@
 * {
      text-align: center;
-     Padding: 0;
-     Margin:0;
+     height: 100vh;
      box-sizing: border-box;
 }
 
@@ -10,7 +9,7 @@ body {
      background-repeat: no-repeat;
      background-color:  hsl(225, 100%, 94%);
      margin: 100px;
-     width: 375px;
+     width: auto;
      font-family: 'Red Hat Display';
      font-size: 16px;
      font-style: 900;
