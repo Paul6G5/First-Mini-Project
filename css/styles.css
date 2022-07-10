@@ -18,11 +18,11 @@ body {
 
 .container {
      margin: auto;
-     width: fit-content;
+     width: auto;
      background-color: white;
      border-radius: 20px;
      box-sizing: border-box;
-     height: 100%;
+     height: 200%;
 }
 
 .head {
