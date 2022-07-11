@@ -14,7 +14,7 @@ body {
 .container {
      margin: auto;
      width: fit-content;
-     height: 170%;
+     height: 300%;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
@@ -32,7 +32,7 @@ body {
 .stomach {
      display: flex;
      background-color: hsl(225, 100%, 98%);
-     border-radius: 12px;
+     border-radius: 20px;
      align-items: center;
      justify-content:space-around;
      justify-items: flex-end;
@@ -41,9 +41,9 @@ body {
 
 .ankle {
      color: white;
-     width: 375px;
-     padding: 12px;
-     border-radius: 12px;
+     width: 300px;
+     padding: 5px;
+     border-radius: 20px;
      border: none;
      background-color: hsl(225, 69%, 46%);
 }
