@@ -13,8 +13,8 @@ body {
 }
 
 .container {
-     margin: 30px;
-     width: 375px;
+     margin: 100%;
+     width: auto;
      height: auto;
      background-color: white;
      border-radius: 20px;
