@@ -14,9 +14,10 @@ body {
 .container {
      margin: auto;
      width: fit-content;
-     height: 80vh;
+     height: 250%;
      background-color: white;
-     border-radius: 20px;
+     border-bottom-left-radius: 20px;
+     border-bottom-right-radius: 20px;
      text-align: center;
      font-size: 16px;
      box-sizing: border-box;
@@ -33,7 +34,7 @@ body {
      margin: 20px;
      width: auto;
      padding: 5px;
-     border-radius: 12px;
+     border-radius: 10px;
      text-align: center;
      justify-content: space-around;
      justify-items: flex-end;
@@ -41,9 +42,9 @@ body {
 
 .ankle {
      color: white;
-     width: auto;
+     width: 375px;
      margin: 30px;
-     padding: 12px;
+     padding: 10px;
      border-radius: 12px;
      border: none;
      background-color: hsl(225, 69%, 46%);
