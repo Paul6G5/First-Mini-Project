@@ -13,8 +13,8 @@ body {
 }
 
 .container {
-     margin: auto;
-     width: 475px;
+     margin: 30px;
+     width: fit-content;
      height: auto;
      background-color: white;
      border-radius: 20px;
@@ -45,6 +45,4 @@ body {
      border: none;
      background-color: hsl(225, 69%, 46%);
 }
-
-
 
