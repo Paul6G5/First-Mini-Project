@@ -1,8 +1,6 @@
 * {
      text-align: center;
      box-sizing: border-box;
-     margin: 0;
-     padding: 0;
 }
 
 body {
@@ -15,9 +13,9 @@ body {
 }
 
 .container {
-     margin: auto;
+     margin: 30px;
      width: auto;
-     height: auto;;
+     height: auto;
      background-color: white;
      border-radius: 20px;
      box-sizing: border-box;
@@ -34,6 +32,7 @@ body {
      margin: 10%;
      padding: 3px;
      border-radius: 12px;
+     text-align: center;
      justify-content: space-around;
      justify-items: flex-end;
 }
@@ -46,3 +45,6 @@ body {
      border: none;
      background-color: hsl(225, 69%, 46%);
 }
+
+
+
