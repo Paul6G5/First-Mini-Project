@@ -13,8 +13,8 @@ body {
 
 .container {
      margin: 100%;
-     width: auto;
-     height: 75vh;
+     width: fit-content;
+     height: 80vh;
      background-color: white;
      border-radius: 20px;
      text-align: center;
