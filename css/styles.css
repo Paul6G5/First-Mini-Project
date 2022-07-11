@@ -12,9 +12,9 @@ body {
 
 
 .container {
-     margin: auto;
-     width: auto;
-     height: 170%;
+     margin: 50px;
+     width: 457px;
+     height: fit-content;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
@@ -33,7 +33,6 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      border-radius: 20px;
-     align-contents: center;
      justify-content:space-around;
      justify-items: flex-end;
 }
@@ -41,9 +40,7 @@ body {
 
 .ankle {
      color: white;
-     padding: 5px;
+     padding: 10px;
      border-radius: 20px;
-     border: none;
-     align-contents: center;
      background-color: hsl(225, 69%, 46%);
 }
