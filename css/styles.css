@@ -1,7 +1,5 @@
 * {
      text-align: center;
-     margin: 0;
-     padding: 0;
 }
 
 
@@ -15,7 +13,7 @@ body {
 .container {
      margin: 150%;
      width: 450px;
-     height: 2500%;
+     height: 250%;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
@@ -39,8 +37,8 @@ body {
 
 .ankle {
      color: white;
-     padding: 3px;
+     padding: 5px;
      border-radius: 20px;
-     width: 150px;
+     width: 200px;
      background-color: hsl(225, 69%, 46%);
 }
