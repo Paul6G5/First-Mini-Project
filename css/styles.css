@@ -1,6 +1,9 @@
 * {
      text-align: center;
+     box-sizing: border-box;
+     font-style: 500, 700, 900;
 }
+
 
 
 body {
@@ -13,12 +16,10 @@ body {
 .container {
      margin: auto;
      width: 450px;
-     height: 100px;
+     height: 220px;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
-     box-sizing: border-box;
-     font-style: 500, 700, 900;
 }
 
 .head {
@@ -30,7 +31,6 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      border-radius: 20px;
-     height: 48px
      justify-content:space-around;
      justify-items: flex-end;
 }
@@ -38,6 +38,7 @@ body {
 .ankle {
      color: white;
      padding: 10px;
+     width: 375px
      border-radius: 20px;
      background-color: hsl(225, 69%, 46%);
 }
