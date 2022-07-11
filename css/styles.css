@@ -45,6 +45,7 @@ body {
      color: white;
      width: 375px;
      padding: 2px;
+     margin: 10px
      border-radius: 12px;
      border: none;
      background-color: hsl(225, 69%, 46%);
