@@ -1,6 +1,7 @@
 * {
      margin: 0;
      padding: 0;
+     text-align: center;
      box-sizing: border-box;
 }
 
@@ -15,9 +16,9 @@ body {
 .container {
      margin: auto;
      width: fit-content;
-     height: 300%;
+     height: 350%;
      background-color: white;
-     border-radius: 10px;
+     border-radius: 20px;
      text-align: center;
      font-size: 16px;
 }
@@ -30,7 +31,7 @@ body {
 .stomach {
      display: flex;
      background-color: hsl(225, 100%, 98%);
-     width: 9%;
+     width: 10%;
      border-radius: 12px;
      text-align: center;
      justify-content: space-around;
