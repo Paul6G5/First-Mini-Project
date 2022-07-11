@@ -1,6 +1,6 @@
 * {
      text-align: center;
-     box-sizing: border-box;
+ 
 }
 
 
@@ -14,8 +14,8 @@ body {
 
 .container {
      margin: auto;
-     width: fit-content;
-     height: 175%;
+     width: auto;
+     height: 205%;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
@@ -34,6 +34,7 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      margin: auto;
+     width: 375px;
      padding: 1px;
      border-radius: 10px;
      align-items: center;
