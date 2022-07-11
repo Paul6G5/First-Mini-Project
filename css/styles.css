@@ -13,8 +13,8 @@ body {
 
 .container {
      margin: auto;
-     width: 400px;
-     height: 150%;
+     width: fit-content;
+     height: 300%;
      background-color: white;
      border-radius: 10px;
      text-align: center;
