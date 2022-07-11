@@ -2,6 +2,7 @@
      margin: 0;
      padding: 0;
      font-size: 16px;
+     box-sizing: border-box;
 }
 
 body {
@@ -14,12 +15,11 @@ body {
 
 .container {
      margin: 100%;
-     width: 400px;
-     height: 100%;
+     width: 370px;
+     height: 75vh;
      background-color: white;
      border-radius: 20px;
      text-align: center;
-     box-sizing: border-box;
 }
 
 .head {
@@ -31,7 +31,7 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      margin: 10%;
-     width: 375px;
+     width: auto;
      padding: 5px;
      border-radius: 12px;
      text-align: center;
@@ -41,7 +41,7 @@ body {
 
 .ankle {
      color: white;
-     width: 375px;
+     width: auto;
      padding: 12px;
      border-radius: 12px;
      border: none;
