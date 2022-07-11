@@ -15,7 +15,7 @@ body {
 .container {
      margin: auto;
      width: fit-content;
-     height: 100vh;
+     height: 130%;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
