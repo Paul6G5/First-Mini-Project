@@ -1,3 +1,8 @@
+* {
+     text-align: center;
+}
+
+
 body {
      background-image: url(../images/pattern-background-desktop.svg);
      background-repeat: no-repeat;
@@ -26,7 +31,7 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      border-radius: 20px;
-     width: 220px;
+     margin:10%;
      justify-content: space-around;
      justify-items: flex-end;
 }
@@ -35,6 +40,6 @@ body {
      color: white;
      padding: 10px;
      border-radius: 20px;
-     width: 220pz;
+     width: 180px;
      background-color: hsl(225, 69%, 46%);
 }
