@@ -14,7 +14,7 @@ body {
 
 .container {
      margin: auto;
-     width: 450px;
+     width: fit-content;
      height: 70vh;
      background-color: white;
      border-radius: 20px;
@@ -31,9 +31,9 @@ body {
 .stomach {
      display: flex;
      background-color: hsl(225, 100%, 98%);
-     width: 10%;
+     width: auto;
+     margin: 10px;
      border-radius: 12px;
-     text-align: center;
      justify-content: space-around;
      justify-items: flex-end;
 }
