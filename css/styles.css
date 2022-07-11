@@ -27,7 +27,7 @@ body {
      border-top-right-radius: 20px;
 }
 
-stomach {
+.stomach {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      border-radius: 20px;
