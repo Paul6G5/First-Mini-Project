@@ -12,7 +12,7 @@ body {
 .container {
      margin: auto;
      width: fit-content;
-     height: 150%;
+     height: 180%;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
@@ -29,6 +29,7 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      margin: 10%;
+     Padding: 1px;
      width: fit-content;
      border-radius: 12px;
      justify-content: space-around;
