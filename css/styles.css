@@ -12,7 +12,7 @@ body {
 .container {
      margin: auto;
      width: fit-content;
-     height: 220%;
+     height: 200%;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
@@ -28,7 +28,7 @@ body {
 .stomach {
      display: flex;
      background-color: hsl(225, 100%, 98%);
-     margin: 10%;
+     margin: 5px;
      padding: 2px;
      width: 375px;
      border-radius: 12px;
