@@ -10,11 +10,10 @@ body {
      font-family: 'Red Hat Display';
 }
 
-
 .container {
-     margin: 50px;
-     width: 457px;
-     height: fit-content;
+     margin: auto;
+     width: fit-content;
+     height: 180%;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
@@ -28,15 +27,17 @@ body {
      border-top-right-radius: 20px;
 }
 
-
-.stomach {
+stomach {
      display: flex;
      background-color: hsl(225, 100%, 98%);
+     margin: 0;
+     width: 300px;
+     padding: 0;
+     align-items: center;
      border-radius: 20px;
-     justify-content:space-around;
+     justify-content: space-around;
      justify-items: flex-end;
 }
-
 
 .ankle {
      color: white;
