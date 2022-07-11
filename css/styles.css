@@ -34,10 +34,10 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      margin: 10%;
-     padding: 1px;
-     width: 375px;
+     padding: 2px;
      border-radius: 12px;
-     justify-content: space-between;
+     align-items: center;
+     justify-content:space-around;
      justify-items: flex-end;
 }
 
