@@ -1,6 +1,6 @@
 * {
      text-align: center;
- 
+     box-sizing: border-box;
 }
 
 
@@ -14,8 +14,8 @@ body {
 
 .container {
      margin: auto;
-     width: auto;
-     height: 205%;
+     width: fit-content;
+     height: 50%;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
@@ -33,8 +33,7 @@ body {
 .stomach {
      display: flex;
      background-color: hsl(225, 100%, 98%);
-     margin: auto;
-     width: 375px;
+     margin: 5%;
      padding: 1px;
      border-radius: 10px;
      align-items: center;
@@ -46,7 +45,7 @@ body {
 .ankle {
      color: white;
      width: 375px;
-     padding: 1px;
+     padding: 2px;
      border-radius: 10px;
      border: none;
      background-color: hsl(225, 69%, 46%);
