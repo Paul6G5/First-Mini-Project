@@ -13,7 +13,7 @@ body {
 
 .container {
      margin: auto;
-     width: fit-content;
+     width: 400px;
      height: 150%;
      background-color: white;
      border-radius: 10px;
@@ -47,4 +47,3 @@ body {
      border: none;
      background-color: hsl(225, 69%, 46%);
 }
-
