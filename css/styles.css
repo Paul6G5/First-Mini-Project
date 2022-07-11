@@ -1,8 +1,7 @@
 * {
-     text-align: center;
-     box-sizing: border-box;
      margin: 0;
      padding: 0;
+     font-size: 16px;
 }
 
 body {
@@ -10,16 +9,16 @@ body {
      background-repeat: no-repeat;
      background-color:  hsl(225, 100%, 94%);
      font-family: 'Red Hat Display';
-     font-size: 16px;
      font-style: 500, 700, 900;
 }
 
 .container {
      margin: 25px;
-     width: fit-content;
-     height: auto;
+     width: 457px;
+     height: fit-content;
      background-color: white;
      border-radius: 20px;
+     text-align: center;
      box-sizing: border-box;
 }
 
@@ -32,7 +31,8 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      margin: 10%;
-     padding: 3px;
+     width: 375px;
+     padding: 5px;
      border-radius: 12px;
      text-align: center;
      justify-content: space-around;
