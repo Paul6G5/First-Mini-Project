@@ -33,8 +33,7 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      border-radius: 20px;
-     width: fit-content;
-     align-items: center;
+     align-contents: center;
      justify-content:space-around;
      justify-items: flex-end;
 }
