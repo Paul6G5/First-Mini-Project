@@ -11,16 +11,15 @@ body {
 }
 
 .container {
-     margin: 220px;
+     margin: auto;
      width: 450px;
-     height: 100vh;
+     height: 220px;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
      box-sizing: border-box;
      font-style: 500, 700, 900;
 }
-
 
 .head {
      border-top-left-radius: 20px;
@@ -31,15 +30,16 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      border-radius: 20px;
-     margin: 56px;
+     width:375px;
+     height: 48px
      justify-content:space-around;
      justify-items: flex-end;
 }
 
 .ankle {
      color: white;
+     width: 375px;
      padding: 10px;
-     margin: 56px;
      border-radius: 20px;
      background-color: hsl(225, 69%, 46%);
 }
