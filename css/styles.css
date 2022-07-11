@@ -15,8 +15,8 @@ body {
 
 .container {
      margin: auto;
-     width: fit-content;
-     height: 350%;
+     width: 450px;
+     height: 100%;
      background-color: white;
      border-radius: 20px;
      text-align: center;
