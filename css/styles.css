@@ -32,6 +32,7 @@ body {
      background-color: hsl(225, 100%, 98%);
      border-radius: 20px;
      justify-content:space-around;
+     text-justify: left;
      justify-items: flex-end;
 }
 
@@ -39,6 +40,6 @@ body {
      color: white;
      padding: 10px;
      border-radius: 20px;
-     margin: 375px;
+     width: 375px;
      background-color: hsl(225, 69%, 46%);
 }
