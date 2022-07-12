@@ -13,7 +13,7 @@ body {
 .container {
      margin: auto;
      width: 450px;
-     height: 400px;
+     height: 220px;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
@@ -32,8 +32,7 @@ body {
      background-color: hsl(225, 100%, 98%);
      border-radius: 12px;
      padding: auto;
-     margin: 5%;
-     width: fit-content;
+     margin: 10%;
      justify-content:space-around;
      justify-items: flex-end;
 }
@@ -42,7 +41,6 @@ body {
      color: white;
      width: 375px;
      padding: 2px;
-     margin: 4%;
      border-radius: 12px;
      border-style: none;
      background-color: hsl(225, 69%, 46%);
