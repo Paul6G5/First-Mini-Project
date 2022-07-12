@@ -6,9 +6,9 @@ body {
 }
 
 .container {
-     margin: 100%;
+     margin: 50%;
      width: 450px;
-     height: 200%;
+     height: 250%;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
@@ -26,6 +26,7 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      border-radius: 12px;
+     width: 300px;
      padding: 15px;
      justify-content: space-around;
      justify-items: flex-end;
@@ -33,7 +34,7 @@ body {
 
 .ankle {
      color: white;
-     padding: 15px;
+     padding: 1px;
      width: 375px;
      border-radius: 12px;
      border-style: none;
