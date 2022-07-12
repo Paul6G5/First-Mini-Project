@@ -10,9 +10,9 @@ body {
 }
 
 .container {
-     margin: auto;
+     margin: 100%;
      width: 450px;
-     height: 900px;
+     height: 100%;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
@@ -30,15 +30,14 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      border-radius: 12px;
-     margin: auto;
-     padding: auto;
+     padding: 1px;
      justify-content:space-around;
      justify-items: flex-end;
 }
 
 .ankle {
      color: white;
-     padding: 10px;
+     padding: 20px;
      width: 375px;
      border-radius: 12px;
      border-style: none;
