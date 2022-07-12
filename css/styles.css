@@ -12,7 +12,7 @@ body {
 .container {
      margin: auto;
      width: 450px;
-     height: 800;
+     height: 800px;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
@@ -39,7 +39,7 @@ body {
 
 .ankle {
      color: white;
-     padding: 5px;
+     padding: 1px;
      width: 375px;
      margin: auto;
      border-radius: 12px;
