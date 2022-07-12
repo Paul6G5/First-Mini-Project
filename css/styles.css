@@ -30,18 +30,17 @@ body {
 .stomach {
      display: flex;
      background-color: hsl(225, 100%, 98%);
-     border-radius: 12px;
-     margin: 5%;
-     padding: auto;
-     justify-content: space-between;
+     border-radius: 15px;
+     padding: 5px;
+     justify-content: space-around;
      justify-items: flex-end;
 }
 
 .ankle {
      color: white;
-     margin: 10%;
      width: 375px;
-     border-radius: 12px;
+     padding: 20px;
+     border-radius: 15px;
      border-style: none;
      background-color: hsl(225, 69%, 46%);
 }
