@@ -7,8 +7,8 @@ body {
 
 .container {
      margin: auto;
-     width: 450px;
-     height: 1000px;
+     width: 220px;
+     height: 200%;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
@@ -26,8 +26,7 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      border-radius: 12px;
-     width: 400px;
-     padding: 25px;
+     padding: 20px;
      justify-content:space-around;
      justify-items: flex-end;
 }
@@ -35,7 +34,6 @@ body {
 .ankle {
      color: white;
      padding: 15px;
-     width: 400px;
      border-radius: 12px;
      border-style: none;
      background-color: hsl(225, 69%, 46%);
