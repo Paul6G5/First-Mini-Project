@@ -11,9 +11,9 @@ body {
 }
 
 .container {
-     margin: auto;
+     margin: 10%;
      width: 450px;
-     height: 350px;
+     height: 430px;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
@@ -31,15 +31,15 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      border-radius: 12px;
-     padding: auto;
-     margin: 6%;
-     justify-content:space-around;
+     padding: 5px;
+     width: 300px;
+     content:space-around;
      justify-items: flex-end;
 }
 
 .ankle {
      color: white;
-     width: 375px;
+     width: 300px;
      padding: 2px;
      border-radius: 12px;
      border-style: none;
