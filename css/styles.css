@@ -13,7 +13,7 @@ body {
 .container {
      margin: auto;
      width: 450px;
-     height: 200%;
+     height: 210%;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
@@ -30,18 +30,19 @@ body {
 .stomach {
      display: flex;
      background-color: hsl(225, 100%, 98%);
-     border-radius: 20px;
+     border-radius: 12px;
      margin: 10%;
-     padding: 0;
+     padding: auto;
+     align-items: center;
      justify-content: space-around;
      justify-items: flex-end;
 }
 
 .ankle {
      color: white;
-     padding: 5px;
+     padding: 10px;
      width: 375px;
-     border-radius: 20px;
+     border-radius: 12px;
      border-style: none;
      background-color: hsl(225, 69%, 46%);
 }
