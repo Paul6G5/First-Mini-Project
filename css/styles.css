@@ -6,9 +6,9 @@ body {
 }
 
 .container {
-     margin: 20%;
+     margin: 25%;
      width: 450px;
-     height: 300%;
+     height: 350%;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
@@ -28,13 +28,13 @@ body {
      border-radius: 12px;
      width: fit-content;
      padding: 5px;
-     justify-content:space-around;
+     justify-content:space-between;
      justify-items: flex-end;
 }
 
 .ankle {
      color: white;
-     padding: 20px;
+     padding: 30px;
      width: 375px;
      border-radius: 12px;
      border-style: none;
