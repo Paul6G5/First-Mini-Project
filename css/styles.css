@@ -6,9 +6,9 @@ body {
 }
 
 .container {
-     margin: 100px;
+     margin: 200px;
      width: 450px;
-     height: 250%;
+     height: 210%;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
@@ -26,6 +26,7 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      border-radius: 12px;
+     align-contents: fit-content;
      justify-content:space-around;
      justify-items: flex-end;
 }
