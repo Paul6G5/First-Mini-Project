@@ -8,7 +8,7 @@ body {
 .container {
      margin: 25%;
      width: 450px;
-     height: 350%;
+     height: 500%;
      background-color: white;
      border-radius: 20px;
      font-size: 16px;
@@ -26,14 +26,14 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      border-radius: 12px;
-     align-contents: center;
+     align-items: center;
      justify-content:space-around;
      justify-items: flex-end;
 }
 
 .ankle {
      color: white;
-     padding: 30px;
+     padding: 25px;
      width: 375px;
      border-radius: 12px;
      border-style: none;
