@@ -1,3 +1,4 @@
+Hh
 body {
      background-image: url(../images/pattern-background-desktop.svg);
      background-repeat: no-repeat;
@@ -35,7 +36,7 @@ body {
 .ankle {
      color: white;
      padding: 2px;
-     width: 375px
+     width: 375px;
      border-radius: 15px;
      margin: 15px;
      border-style: none;
