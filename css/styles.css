@@ -1,4 +1,6 @@
 body {
+     margin: 100px;
+     width: auto;
      background-image: url(../images/pattern-background-desktop.svg);
      background-repeat: no-repeat;
      background-color:  hsl(225, 100%, 94%);
@@ -6,14 +8,14 @@ body {
 }
 
 .container {
-     margin: 200px;
-     width: 450px;
-     height: 210%;
      background-color: white;
      border-radius: 20px;
+     width: fit-content;
+     margin: auto;
      font-size: 16px;
      text-align: center;
      box-sizing: border-box;
+     height: 100vh;
      font-style: 500, 700, 900;
 }
 
@@ -27,13 +29,14 @@ body {
      background-color: hsl(225, 100%, 98%);
      border-radius: 12px;
      margin: 10%;
+     padding: 1px
      justify-content:space-around;
      justify-items: flex-end;
 }
 
 .ankle {
      color: white;
-     padding: 10px;
+     padding: 12px;
      width: 375px;
      border-radius: 12px;
      border-style: none;
