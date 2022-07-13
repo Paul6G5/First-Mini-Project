@@ -16,7 +16,7 @@ body {
      text-align: center;
      box-sizing: border-box;
      height: 100vh;
-     font-style: 500, 700, 900;
+     font-style: 900;
 }
 
 .head {
@@ -30,6 +30,7 @@ body {
      border-radius: 12px;
      margin: 10%;
      padding: 1px;
+     font-style: 700;
      justify-content:space-around;
      justify-items: flex-end;
 }
