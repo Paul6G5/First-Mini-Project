@@ -29,8 +29,8 @@ body {
      background-color: hsl(225, 100%, 98%);
      border-radius: 12px;
      margin: 10%;
-     padding: 1px;
-     align-items: center;
+     padding: 2px;
+     text-align: center;
      justify-content:space-around;
      justify-items: flex-end;
      font-weight: 700;
@@ -38,7 +38,7 @@ body {
 
 .ankle {
      color: white;
-     padding: 12px;
+     padding: 8px;
      width: 375px;
      border-radius: 12px;
      border-style: none;
