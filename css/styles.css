@@ -1,3 +1,7 @@
+* {
+     text-align: center;
+}
+
 body {
      background-image: url(../images/pattern-background-desktop.svg);
      background-repeat: no-repeat;
@@ -5,7 +9,7 @@ body {
      font-family: 'Red Hat Display';
      margin: 100px;
      width: auto;
-     font-style: 900;
+     font-style: 500,700,900;
 }
 
 .container {
@@ -29,11 +33,10 @@ body {
      background-color: hsl(225, 100%, 98%);
      border-radius: 12px;
      margin: 10%;
-     padding: 2px;
-     text-align: center;
+     padding: 1px;
      justify-content:space-around;
      justify-items: flex-end;
-     font-weight: 700;
+     font-weight: 500,700,900;
 }
 
 .ankle {
@@ -42,7 +45,7 @@ body {
      width: 375px;
      border-radius: 12px;
      border-style: none;
-     font-weight: 500;
+     font-weight: 500, 700, 900;
      background-color: hsl(225, 69%, 46%);
 }
 
