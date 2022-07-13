@@ -1,10 +1,10 @@
 body {
-     margin: 100px;
-     width: auto;
      background-image: url(../images/pattern-background-desktop.svg);
      background-repeat: no-repeat;
      background-color:  hsl(225, 100%, 94%);
      font-family: 'Red Hat Display';
+     margin: 100px;
+     width: auto;
 }
 
 .container {
@@ -28,9 +28,10 @@ body {
      display: flex;
      background-color: hsl(225, 100%, 98%);
      border-radius: 12px;
-     margin: 9%;
+     margin: 10%;
      padding: 1px
      align-items: center;
+     font-weight: 900;
      justify-content:space-around;
      justify-items: flex-end;
 }
